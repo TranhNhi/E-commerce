@@ -1,5 +1,5 @@
-Giới thiệu đồ án: Trang web bán đồ điện tử
-Công nghệ sử dụng: Java, Spring boot
+GIỚI THIỆU ĐỒ ÁN: Trang web bán đồ điện tử
+CÔNG NGHỆ SỬ DỤNG: Java, Spring boot
 ✅ Tính năng đã hoàn thành
  Đăng ký / đăng nhập người dùng
  Quản lý sản phẩm
